@@ -20,7 +20,7 @@ const StudySession = ({ onSave, theme }) => {
       backgroundColor: '#333',
       color: '#fff',
       inputBackgroundColor: '#444',
-      buttonColor: 'secondary',
+      buttonColor: 'primary',
     }
   };
 
